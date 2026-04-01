@@ -1,0 +1,20 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║                    EDUCATIONAL SIMULATION                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Files have been encrypted as part of a safe simulation.     ║
+║                                                              ║
+║  📊 Simulation Statistics:                                  ║
+║     • Files encrypted: 5                ║
+║     • Location: encrypted_files/ folder in Drive             ║
+║                                                              ║
+║  🔑 Original files are SAFE in test_files/ folder           ║
+║                                                              ║
+║  📌 To recover encrypted files:                             ║
+║     1. Run Notebook 3: Decryption & Recovery                ║
+║     2. Your key is in scripts/secret_key.json                ║
+║                                                              ║
+║  ⚠️  THIS IS A SAFE SIMULATION - NO REAL DATA AT RISK       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
