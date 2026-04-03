@@ -64,17 +64,26 @@ Ransomware_Simulation_Project/
 ├── notebooks/ # 4 Colab notebooks (run in order)
 
 │ ├── Folder_Setup.ipynb
+
 │ ├── 1_Key_Manager.ipynb
+
 │ ├── 2_Encryption_Simulator.ipynb
+
 │ └── 3_Decryption_Recovery.ipynb
 │
 
 ├── scripts/ # Encryption keys
+
 ├── test_files/ # Original test files
+
 ├── encrypted_files/ # Files after encryption
+
 ├── recovered_files/ # Files after recovery
+
 ├── screenshots/ # Documentation screenshots
+
 ├── reports/ # Recovery reports
+
 └── RANSOM_NOTE.txt # Educational ransom note
 
 
@@ -257,7 +266,7 @@ This project is licensed under the MIT License.
 ║ ║
 ╚══════════════════════════════════════════════════════════╝
 
-text
+
 
 ---
 
