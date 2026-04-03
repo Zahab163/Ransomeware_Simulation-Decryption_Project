@@ -264,12 +264,19 @@ This project is licensed under the MIT License.
 ## ⚠️ Final Reminder
 
 ╔══════════════════════════════════════════════════════════╗
+
 ║ EDUCATIONAL PURPOSE ONLY ║
-╠══════════════════════════════════════════════════════════╣
+
+╠══════════════════════════════════════
+════════════════════╣
+
 ║ ║
+
 ║ ✅ DO: Run only in Google Colab, use test files only ║
+
 ║ ║
 ║ ❌ NEVER: Run on real files or use maliciously ║
+
 ║ ║
 ╚══════════════════════════════════════════════════════════╝
 
