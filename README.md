@@ -17,6 +17,15 @@ This project simulates ransomware behavior in a completely safe, isolated enviro
 
 ---
 
+## 📚 Project Documentation
+
+📄 **[Complete Project Report](PROJECT_REPORT.md)** - Detailed documentation including:
+- Environment setup (Ubuntu/VirtualBox/WSL)
+- Technical implementation details
+- Test results and analysis
+- Cyber Kill Chain mapping
+- Defense recommendations
+
 ## 🎓 Educational Purpose
 
 This project was created to:
