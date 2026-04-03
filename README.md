@@ -202,11 +202,9 @@ Ransomware_Simulation_Project/
 | Stage | Screenshot |
 |-------|------------|
 | Before Encryption | `before_encryption.png` |
-| Encryption Running | `encryption_running.png` |
-| After Encryption | 
-`after_encryption.png` |
-| After Decryption | 
-`after_decryption.png` |
+| Encryption Running|`encryption_running.png` |
+| After Encryption | `after_encryption.png` |
+| After Decryption | `after_decryption.png` |
 
 ---
 
