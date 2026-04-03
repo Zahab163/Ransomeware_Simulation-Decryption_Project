@@ -59,13 +59,16 @@ This project was developed with AI assistance to ensure code safety, educational
 ## 📁 Project Structure
 
 Ransomware_Simulation_Project/
+
 │
 ├── notebooks/ # 4 Colab notebooks (run in order)
+
 │ ├── Folder_Setup.ipynb
 │ ├── 1_Key_Manager.ipynb
 │ ├── 2_Encryption_Simulator.ipynb
 │ └── 3_Decryption_Recovery.ipynb
 │
+
 ├── scripts/ # Encryption keys
 ├── test_files/ # Original test files
 ├── encrypted_files/ # Files after encryption
@@ -189,10 +192,12 @@ Ransomware_Simulation_Project/
 
 | Stage | Screenshot |
 |-------|------------|
-| Before Encryption | `screenshots/before_encryption.png` |
-| Encryption Running | `screenshots/encryption_running.png` |
-| After Encryption | `screenshots/after_encryption.png` |
-| After Decryption | `screenshots/after_decryption.png` |
+| Before Encryption | `before_encryption.png` |
+| Encryption Running | `encryption_running.png` |
+| After Encryption | 
+`after_encryption.png` |
+| After Decryption | 
+`after_decryption.png` |
 
 ---
 
